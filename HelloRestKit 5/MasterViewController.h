@@ -7,7 +7,10 @@
 //
 
 #import <UIKit/UIKit.h>
+#import <RestKit/RKObjectLoader.h>
 
-@interface MasterViewController : UITableViewController
+@interface MasterViewController : UITableViewController <RKObjectLoaderDelegate>
+
+@property (strong, nonatomic) NSArray *data;
 
 @end

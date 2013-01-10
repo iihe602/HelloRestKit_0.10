@@ -1,0 +1,1879 @@
+{
+    "meta": {
+        "code": 200
+    },
+    "response": {
+        "venues": [
+            {
+                "id": "4f482132e4b0f85d07c34cb5",
+                "name": "De Anza 3 Coffee Bar",
+                "contact": {},
+                "location": {
+                    "address": "10500 De Anza Blvd",
+                    "lat": 37.329438,
+                    "lng": -122.03083,
+                    "distance": 96,
+                    "postalCode": "95014",
+                    "city": "Cupertino",
+                    "state": "CA",
+                    "country": "United States",
+                    "cc": "US"
+                },
+                "canonicalUrl": "https://foursquare.com/v/de-anza-3-coffee-bar/4f482132e4b0f85d07c34cb5",
+                "categories": [
+                    {
+                        "id": "4bf58dd8d48988d1e0931735",
+                        "name": "Coffee Shop",
+                        "pluralName": "Coffee Shops",
+                        "shortName": "Coffee Shop",
+                        "icon": {
+                            "prefix": "https://foursquare.com/img/categories/food/coffeeshop_",
+                            "sizes": [
+                                32,
+                                44,
+                                64,
+                                88,
+                                256
+                            ],
+                            "name": ".png"
+                        },
+                        "primary": true
+                    }
+                ],
+                "verified": false,
+                "restricted": true,
+                "stats": {
+                    "checkinsCount": 1,
+                    "usersCount": 1,
+                    "tipCount": 0
+                },
+                "likes": {
+                    "count": 0,
+                    "groups": []
+                },
+                "specials": {
+                    "count": 0,
+                    "items": []
+                },
+                "hereNow": {
+                    "count": 0,
+                    "groups": []
+                },
+                "referralId": "v-1357553391"
+            },
+            {
+                "id": "40ccea80f964a52019011fe3",
+                "name": "Coffee Society",
+                "contact": {
+                    "phone": "4087258091",
+                    "formattedPhone": "(408) 725-8091"
+                },
+                "location": {
+                    "address": "21265 Stevens Creek Blvd",
+                    "crossStreet": "at Oaks Shopping Center",
+                    "lat": 37.32330342,
+                    "lng": -122.047382,
+                    "distance": 1709,
+                    "postalCode": "95014",
+                    "city": "Cupertino",
+                    "state": "CA",
+                    "country": "United States",
+                    "cc": "US"
+                },
+                "canonicalUrl": "https://foursquare.com/v/coffee-society/40ccea80f964a52019011fe3",
+                "categories": [
+                    {
+                        "id": "4bf58dd8d48988d1e0931735",
+                        "name": "Coffee Shop",
+                        "pluralName": "Coffee Shops",
+                        "shortName": "Coffee Shop",
+                        "icon": {
+                            "prefix": "https://foursquare.com/img/categories/food/coffeeshop_",
+                            "sizes": [
+                                32,
+                                44,
+                                64,
+                                88,
+                                256
+                            ],
+                            "name": ".png"
+                        },
+                        "primary": true
+                    }
+                ],
+                "verified": false,
+                "restricted": true,
+                "stats": {
+                    "checkinsCount": 2548,
+                    "usersCount": 874,
+                    "tipCount": 24
+                },
+                "likes": {
+                    "count": 0,
+                    "groups": []
+                },
+                "specials": {
+                    "count": 0,
+                    "items": []
+                },
+                "hereNow": {
+                    "count": 0,
+                    "groups": []
+                },
+                "referralId": "v-1357553391"
+            },
+            {
+                "id": "4ed80dfa02d5244e2da7280a",
+                "name": "Coffee Luvvelo",
+                "contact": {},
+                "location": {
+                    "address": "De Anza College",
+                    "lat": 37.32071669488432,
+                    "lng": -122.04569231081236,
+                    "distance": 1731,
+                    "postalCode": "95014",
+                    "city": "Cupertino",
+                    "state": "Ca",
+                    "country": "United States",
+                    "cc": "US"
+                },
+                "canonicalUrl": "https://foursquare.com/v/coffee-luvvelo/4ed80dfa02d5244e2da7280a",
+                "categories": [
+                    {
+                        "id": "4bf58dd8d48988d16d941735",
+                        "name": "Café",
+                        "pluralName": "Cafés",
+                        "shortName": "Café",
+                        "icon": {
+                            "prefix": "https://foursquare.com/img/categories/food/cafe_",
+                            "sizes": [
+                                32,
+                                44,
+                                64,
+                                88,
+                                256
+                            ],
+                            "name": ".png"
+                        },
+                        "primary": true
+                    }
+                ],
+                "verified": false,
+                "restricted": true,
+                "stats": {
+                    "checkinsCount": 151,
+                    "usersCount": 22,
+                    "tipCount": 0
+                },
+                "likes": {
+                    "count": 0,
+                    "groups": []
+                },
+                "specials": {
+                    "count": 0,
+                    "items": []
+                },
+                "hereNow": {
+                    "count": 0,
+                    "groups": []
+                },
+                "referralId": "v-1357553391"
+            },
+            {
+                "id": "4ade2e95f964a520af7321e3",
+                "name": "Coffee Society - The Cupertino Library",
+                "contact": {
+                    "phone": "4089962105",
+                    "formattedPhone": "(408) 996-2105"
+                },
+                "location": {
+                    "address": "10300 Torre Ave",
+                    "lat": 37.31808922766133,
+                    "lng": -122.029218785027,
+                    "distance": 1327,
+                    "postalCode": "95014",
+                    "city": "Cupertino",
+                    "state": "CA",
+                    "country": "United States",
+                    "cc": "US"
+                },
+                "canonicalUrl": "https://foursquare.com/v/coffee-society--the-cupertino-library/4ade2e95f964a520af7321e3",
+                "categories": [
+                    {
+                        "id": "4bf58dd8d48988d16d941735",
+                        "name": "Café",
+                        "pluralName": "Cafés",
+                        "shortName": "Café",
+                        "icon": {
+                            "prefix": "https://foursquare.com/img/categories/food/cafe_",
+                            "sizes": [
+                                32,
+                                44,
+                                64,
+                                88,
+                                256
+                            ],
+                            "name": ".png"
+                        },
+                        "primary": true
+                    }
+                ],
+                "verified": false,
+                "restricted": true,
+                "stats": {
+                    "checkinsCount": 259,
+                    "usersCount": 108,
+                    "tipCount": 6
+                },
+                "url": "http://www.coffeesociety.com",
+                "likes": {
+                    "count": 0,
+                    "groups": []
+                },
+                "specials": {
+                    "count": 0,
+                    "items": []
+                },
+                "hereNow": {
+                    "count": 0,
+                    "groups": []
+                },
+                "referralId": "v-1357553391"
+            },
+            {
+                "id": "4659d9b5f964a52020471fe3",
+                "name": "Starbucks",
+                "contact": {
+                    "phone": "4089738358",
+                    "formattedPhone": "(408) 973-8358",
+                    "twitter": "starbucks"
+                },
+                "location": {
+                    "address": "20520 Stevens Creek Blvd",
+                    "crossStreet": "at De Anza Blvd",
+                    "lat": 37.321996645439015,
+                    "lng": -122.03273177146912,
+                    "distance": 923,
+                    "postalCode": "95014",
+                    "city": "Cupertino",
+                    "state": "CA",
+                    "country": "United States",
+                    "cc": "US"
+                },
+                "canonicalUrl": "https://foursquare.com/v/starbucks/4659d9b5f964a52020471fe3",
+                "categories": [
+                    {
+                        "id": "4bf58dd8d48988d1e0931735",
+                        "name": "Coffee Shop",
+                        "pluralName": "Coffee Shops",
+                        "shortName": "Coffee Shop",
+                        "icon": {
+                            "prefix": "https://foursquare.com/img/categories/food/coffeeshop_",
+                            "sizes": [
+                                32,
+                                44,
+                                64,
+                                88,
+                                256
+                            ],
+                            "name": ".png"
+                        },
+                        "primary": true
+                    }
+                ],
+                "verified": true,
+                "restricted": true,
+                "stats": {
+                    "checkinsCount": 6656,
+                    "usersCount": 1677,
+                    "tipCount": 15
+                },
+                "url": "http://www.starbucks.com",
+                "likes": {
+                    "count": 0,
+                    "groups": []
+                },
+                "menu": {
+                    "type": "foodAndBeverage",
+                    "url": "https://foursquare.com/v/starbucks/4659d9b5f964a52020471fe3/menu",
+                    "mobileUrl": "https://foursquare.com/v/4659d9b5f964a52020471fe3/device_menu"
+                },
+                "specials": {
+                    "count": 0,
+                    "items": []
+                },
+                "hereNow": {
+                    "count": 0,
+                    "groups": []
+                },
+                "referralId": "v-1357553391"
+            },
+            {
+                "id": "4af4a1a2f964a52082f421e3",
+                "name": "Verde Tea Cafe",
+                "contact": {
+                    "phone": "4088732868",
+                    "formattedPhone": "(408) 873-2868"
+                },
+                "location": {
+                    "address": "19760 Stevens Creek Blvd",
+                    "crossStreet": "btw N Wolfe Rd & N Portal Ave",
+                    "lat": 37.32226540320736,
+                    "lng": -122.01701402664185,
+                    "distance": 1436,
+                    "postalCode": "95014",
+                    "city": "Cupertino",
+                    "state": "CA",
+                    "country": "United States",
+                    "cc": "US"
+                },
+                "canonicalUrl": "https://foursquare.com/v/verde-tea-cafe/4af4a1a2f964a52082f421e3",
+                "categories": [
+                    {
+                        "id": "4bf58dd8d48988d16d941735",
+                        "name": "Café",
+                        "pluralName": "Cafés",
+                        "shortName": "Café",
+                        "icon": {
+                            "prefix": "https://foursquare.com/img/categories/food/cafe_",
+                            "sizes": [
+                                32,
+                                44,
+                                64,
+                                88,
+                                256
+                            ],
+                            "name": ".png"
+                        },
+                        "primary": true
+                    }
+                ],
+                "verified": false,
+                "restricted": true,
+                "stats": {
+                    "checkinsCount": 5555,
+                    "usersCount": 1872,
+                    "tipCount": 47
+                },
+                "likes": {
+                    "count": 0,
+                    "groups": []
+                },
+                "specials": {
+                    "count": 0,
+                    "items": []
+                },
+                "hereNow": {
+                    "count": 0,
+                    "groups": []
+                },
+                "referralId": "v-1357553391"
+            },
+            {
+                "id": "4aca37f4f964a520e9c020e3",
+                "name": "Apple - De Anza 6",
+                "contact": {},
+                "location": {
+                    "address": "10355 N De Anza Blvd",
+                    "lat": 37.32860191016731,
+                    "lng": -122.03297661115931,
+                    "distance": 306,
+                    "postalCode": "95014",
+                    "city": "Cupertino",
+                    "state": "CA",
+                    "country": "United States",
+                    "cc": "US"
+                },
+                "canonicalUrl": "https://foursquare.com/v/apple--de-anza-6/4aca37f4f964a520e9c020e3",
+                "categories": [
+                    {
+                        "id": "4bf58dd8d48988d124941735",
+                        "name": "Office",
+                        "pluralName": "Offices",
+                        "shortName": "Corporate / Office",
+                        "icon": {
+                            "prefix": "https://foursquare.com/img/categories/building/default_",
+                            "sizes": [
+                                32,
+                                44,
+                                64,
+                                88,
+                                256
+                            ],
+                            "name": ".png"
+                        },
+                        "primary": true
+                    }
+                ],
+                "verified": false,
+                "restricted": true,
+                "stats": {
+                    "checkinsCount": 555,
+                    "usersCount": 89,
+                    "tipCount": 5
+                },
+                "likes": {
+                    "count": 0,
+                    "groups": []
+                },
+                "specials": {
+                    "count": 0,
+                    "items": []
+                },
+                "hereNow": {
+                    "count": 0,
+                    "groups": []
+                },
+                "referralId": "v-1357553391"
+            },
+            {
+                "id": "5075ba5fe4b003c1c7903a5f",
+                "name": "Coffee",
+                "contact": {},
+                "location": {
+                    "address": "605 Tasman",
+                    "crossStreet": "Fair Oaks",
+                    "lat": 37.40543923941629,
+                    "lng": -122.01183784839215,
+                    "distance": 8550,
+                    "postalCode": "94089",
+                    "city": "Sunnyvale",
+                    "state": "CA",
+                    "country": "United States",
+                    "cc": "US"
+                },
+                "canonicalUrl": "https://foursquare.com/v/coffee/5075ba5fe4b003c1c7903a5f",
+                "categories": [
+                    {
+                        "id": "4bf58dd8d48988d16d941735",
+                        "name": "Café",
+                        "pluralName": "Cafés",
+                        "shortName": "Café",
+                        "icon": {
+                            "prefix": "https://foursquare.com/img/categories/food/cafe_",
+                            "sizes": [
+                                32,
+                                44,
+                                64,
+                                88,
+                                256
+                            ],
+                            "name": ".png"
+                        },
+                        "primary": true
+                    }
+                ],
+                "verified": false,
+                "restricted": true,
+                "stats": {
+                    "checkinsCount": 27,
+                    "usersCount": 1,
+                    "tipCount": 0
+                },
+                "likes": {
+                    "count": 0,
+                    "groups": []
+                },
+                "specials": {
+                    "count": 0,
+                    "items": []
+                },
+                "hereNow": {
+                    "count": 0,
+                    "groups": []
+                },
+                "referralId": "v-1357553391"
+            },
+            {
+                "id": "4bb0c33cf964a520c05a3ce3",
+                "name": "IL1 Coffee Shop",
+                "contact": {},
+                "location": {
+                    "address": "1 Infinite Loop Lobby",
+                    "lat": 37.331581,
+                    "lng": -122.030052,
+                    "distance": 176,
+                    "city": "Cupertino",
+                    "state": "CA",
+                    "country": "United States",
+                    "cc": "US"
+                },
+                "canonicalUrl": "https://foursquare.com/v/il1-coffee-shop/4bb0c33cf964a520c05a3ce3",
+                "categories": [
+                    {
+                        "id": "4bf58dd8d48988d16a941735",
+                        "name": "Bakery",
+                        "pluralName": "Bakeries",
+                        "shortName": "Bakery",
+                        "icon": {
+                            "prefix": "https://foursquare.com/img/categories/food/bakery_",
+                            "sizes": [
+                                32,
+                                44,
+                                64,
+                                88,
+                                256
+                            ],
+                            "name": ".png"
+                        },
+                        "primary": true
+                    }
+                ],
+                "verified": false,
+                "restricted": true,
+                "stats": {
+                    "checkinsCount": 5,
+                    "usersCount": 2,
+                    "tipCount": 1
+                },
+                "likes": {
+                    "count": 0,
+                    "groups": []
+                },
+                "specials": {
+                    "count": 0,
+                    "items": []
+                },
+                "hereNow": {
+                    "count": 0,
+                    "groups": []
+                },
+                "referralId": "v-1357553391"
+            },
+            {
+                "id": "4a821eb0f964a520acf81fe3",
+                "name": "Kaiser Permanente Medical Center",
+                "contact": {
+                    "phone": "4088511000",
+                    "formattedPhone": "(408) 851-1000"
+                },
+                "location": {
+                    "address": "710 Lawrence Expy.",
+                    "crossStreet": "at Homestead Rd.",
+                    "lat": 37.336657470630215,
+                    "lng": -121.99750900268555,
+                    "distance": 2969,
+                    "postalCode": "95051",
+                    "city": "Santa Clara",
+                    "state": "CA",
+                    "country": "United States",
+                    "cc": "US"
+                },
+                "canonicalUrl": "https://foursquare.com/v/kaiser-permanente-medical-center/4a821eb0f964a520acf81fe3",
+                "categories": [
+                    {
+                        "id": "4bf58dd8d48988d177941735",
+                        "name": "Doctor's Office",
+                        "pluralName": "Doctor's Offices",
+                        "shortName": "Doctor's Office",
+                        "icon": {
+                            "prefix": "https://foursquare.com/img/categories/building/medical_",
+                            "sizes": [
+                                32,
+                                44,
+                                64,
+                                88,
+                                256
+                            ],
+                            "name": ".png"
+                        },
+                        "primary": true
+                    }
+                ],
+                "verified": false,
+                "restricted": true,
+                "stats": {
+                    "checkinsCount": 13680,
+                    "usersCount": 2658,
+                    "tipCount": 37
+                },
+                "likes": {
+                    "count": 0,
+                    "groups": []
+                },
+                "specials": {
+                    "count": 0,
+                    "items": []
+                },
+                "hereNow": {
+                    "count": 0,
+                    "groups": []
+                },
+                "referralId": "v-1357553391"
+            },
+            {
+                "id": "46cad6bff964a520284a1fe3",
+                "name": "Starbucks",
+                "contact": {
+                    "phone": "4087335762",
+                    "formattedPhone": "(408) 733-5762",
+                    "twitter": "starbucks"
+                },
+                "location": {
+                    "address": "1685 Hollenbeck Ave",
+                    "crossStreet": "at W Homestead Rd",
+                    "lat": 37.337672574607915,
+                    "lng": -122.04281687736511,
+                    "distance": 1420,
+                    "postalCode": "94087",
+                    "city": "Sunnyvale",
+                    "state": "CA",
+                    "country": "United States",
+                    "cc": "US"
+                },
+                "canonicalUrl": "https://foursquare.com/v/starbucks/46cad6bff964a520284a1fe3",
+                "categories": [
+                    {
+                        "id": "4bf58dd8d48988d1e0931735",
+                        "name": "Coffee Shop",
+                        "pluralName": "Coffee Shops",
+                        "shortName": "Coffee Shop",
+                        "icon": {
+                            "prefix": "https://foursquare.com/img/categories/food/coffeeshop_",
+                            "sizes": [
+                                32,
+                                44,
+                                64,
+                                88,
+                                256
+                            ],
+                            "name": ".png"
+                        },
+                        "primary": true
+                    }
+                ],
+                "verified": true,
+                "restricted": true,
+                "stats": {
+                    "checkinsCount": 1978,
+                    "usersCount": 573,
+                    "tipCount": 10
+                },
+                "url": "http://www.starbuckscoffee.com",
+                "likes": {
+                    "count": 0,
+                    "groups": []
+                },
+                "menu": {
+                    "type": "foodAndBeverage",
+                    "url": "https://foursquare.com/v/starbucks/46cad6bff964a520284a1fe3/menu",
+                    "mobileUrl": "https://foursquare.com/v/46cad6bff964a520284a1fe3/device_menu"
+                },
+                "specials": {
+                    "count": 0,
+                    "items": []
+                },
+                "hereNow": {
+                    "count": 0,
+                    "groups": []
+                },
+                "referralId": "v-1357553391"
+            },
+            {
+                "id": "4a8f43c7f964a5209d1420e3",
+                "name": "Starbucks",
+                "contact": {
+                    "phone": "4088631276",
+                    "formattedPhone": "(408) 863-1276",
+                    "twitter": "starbucks"
+                },
+                "location": {
+                    "address": "11111 N Wolfe Rd.",
+                    "crossStreet": "at E Homestead Rd.",
+                    "lat": 37.33726398333334,
+                    "lng": -122.01462898333334,
+                    "distance": 1582,
+                    "postalCode": "95014",
+                    "city": "Cupertino",
+                    "state": "CA",
+                    "country": "United States",
+                    "cc": "US"
+                },
+                "canonicalUrl": "https://foursquare.com/v/starbucks/4a8f43c7f964a5209d1420e3",
+                "categories": [
+                    {
+                        "id": "4bf58dd8d48988d1e0931735",
+                        "name": "Coffee Shop",
+                        "pluralName": "Coffee Shops",
+                        "shortName": "Coffee Shop",
+                        "icon": {
+                            "prefix": "https://foursquare.com/img/categories/food/coffeeshop_",
+                            "sizes": [
+                                32,
+                                44,
+                                64,
+                                88,
+                                256
+                            ],
+                            "name": ".png"
+                        },
+                        "primary": true
+                    }
+                ],
+                "verified": true,
+                "restricted": true,
+                "stats": {
+                    "checkinsCount": 4075,
+                    "usersCount": 1019,
+                    "tipCount": 8
+                },
+                "url": "http://www.starbucks.com",
+                "likes": {
+                    "count": 0,
+                    "groups": []
+                },
+                "menu": {
+                    "type": "foodAndBeverage",
+                    "url": "https://foursquare.com/v/starbucks/4a8f43c7f964a5209d1420e3/menu",
+                    "mobileUrl": "https://foursquare.com/v/4a8f43c7f964a5209d1420e3/device_menu"
+                },
+                "specials": {
+                    "count": 0,
+                    "items": []
+                },
+                "hereNow": {
+                    "count": 0,
+                    "groups": []
+                },
+                "referralId": "v-1357553391"
+            },
+            {
+                "id": "4acd5501f964a520dfcb20e3",
+                "name": "Fantasia Coffee & Tea",
+                "contact": {
+                    "phone": "4088651689",
+                    "formattedPhone": "(408) 865-1689"
+                },
+                "location": {
+                    "address": "10933 N Wolfe Rd",
+                    "crossStreet": "at E Homestead Rd",
+                    "lat": 37.33591685,
+                    "lng": -122.015892,
+                    "distance": 1411,
+                    "postalCode": "95014",
+                    "city": "Cupertino",
+                    "state": "CA",
+                    "country": "United States",
+                    "cc": "US"
+                },
+                "canonicalUrl": "https://foursquare.com/v/fantasia-coffee--tea/4acd5501f964a520dfcb20e3",
+                "categories": [
+                    {
+                        "id": "4bf58dd8d48988d1e0931735",
+                        "name": "Coffee Shop",
+                        "pluralName": "Coffee Shops",
+                        "shortName": "Coffee Shop",
+                        "icon": {
+                            "prefix": "https://foursquare.com/img/categories/food/coffeeshop_",
+                            "sizes": [
+                                32,
+                                44,
+                                64,
+                                88,
+                                256
+                            ],
+                            "name": ".png"
+                        },
+                        "primary": true
+                    }
+                ],
+                "verified": false,
+                "restricted": true,
+                "stats": {
+                    "checkinsCount": 4967,
+                    "usersCount": 1716,
+                    "tipCount": 26
+                },
+                "likes": {
+                    "count": 0,
+                    "groups": []
+                },
+                "specials": {
+                    "count": 0,
+                    "items": []
+                },
+                "hereNow": {
+                    "count": 0,
+                    "groups": []
+                },
+                "referralId": "v-1357553391"
+            },
+            {
+                "id": "4af0cdb7f964a52052df21e3",
+                "name": "Starbucks",
+                "contact": {
+                    "phone": "4084460845",
+                    "formattedPhone": "(408) 446-0845",
+                    "twitter": "starbucks"
+                },
+                "location": {
+                    "address": "7290 Bollinger Rd",
+                    "crossStreet": "at S De Anza Blvd",
+                    "lat": 37.312097147676845,
+                    "lng": -122.0318831359774,
+                    "distance": 1999,
+                    "postalCode": "95129",
+                    "city": "San Jose",
+                    "state": "CA",
+                    "country": "United States",
+                    "cc": "US"
+                },
+                "canonicalUrl": "https://foursquare.com/v/starbucks/4af0cdb7f964a52052df21e3",
+                "categories": [
+                    {
+                        "id": "4bf58dd8d48988d1e0931735",
+                        "name": "Coffee Shop",
+                        "pluralName": "Coffee Shops",
+                        "shortName": "Coffee Shop",
+                        "icon": {
+                            "prefix": "https://foursquare.com/img/categories/food/coffeeshop_",
+                            "sizes": [
+                                32,
+                                44,
+                                64,
+                                88,
+                                256
+                            ],
+                            "name": ".png"
+                        },
+                        "primary": true
+                    }
+                ],
+                "verified": true,
+                "restricted": true,
+                "stats": {
+                    "checkinsCount": 2556,
+                    "usersCount": 623,
+                    "tipCount": 12
+                },
+                "url": "http://www.starbucks.com",
+                "likes": {
+                    "count": 0,
+                    "groups": []
+                },
+                "specials": {
+                    "count": 0,
+                    "items": []
+                },
+                "hereNow": {
+                    "count": 0,
+                    "groups": []
+                },
+                "referralId": "v-1357553391"
+            },
+            {
+                "id": "49ecd665f964a5209b671fe3",
+                "name": "Coffee Factory",
+                "contact": {},
+                "location": {
+                    "address": "3787 Stevens Creek Blvd",
+                    "lat": 37.323861661112964,
+                    "lng": -121.96835396904373,
+                    "distance": 5499,
+                    "postalCode": "95051",
+                    "city": "Santa Clara",
+                    "state": "CA",
+                    "country": "United States",
+                    "cc": "US"
+                },
+                "canonicalUrl": "https://foursquare.com/v/coffee-factory/49ecd665f964a5209b671fe3",
+                "categories": [
+                    {
+                        "id": "4bf58dd8d48988d1e0931735",
+                        "name": "Coffee Shop",
+                        "pluralName": "Coffee Shops",
+                        "shortName": "Coffee Shop",
+                        "icon": {
+                            "prefix": "https://foursquare.com/img/categories/food/coffeeshop_",
+                            "sizes": [
+                                32,
+                                44,
+                                64,
+                                88,
+                                256
+                            ],
+                            "name": ".png"
+                        },
+                        "primary": true
+                    }
+                ],
+                "verified": false,
+                "restricted": true,
+                "stats": {
+                    "checkinsCount": 822,
+                    "usersCount": 207,
+                    "tipCount": 9
+                },
+                "likes": {
+                    "count": 0,
+                    "groups": []
+                },
+                "specials": {
+                    "count": 0,
+                    "items": []
+                },
+                "hereNow": {
+                    "count": 0,
+                    "groups": []
+                },
+                "referralId": "v-1357553391"
+            },
+            {
+                "id": "50799a54e4b08aa6be4e0b76",
+                "name": "Chromatic Coffee Co.",
+                "contact": {
+                    "phone": "4082484500",
+                    "formattedPhone": "(408) 248-4500"
+                },
+                "location": {
+                    "address": "4237 Stevens Creek Blvd",
+                    "lat": 37.324,
+                    "lng": -121.9945,
+                    "distance": 3212,
+                    "postalCode": "95051",
+                    "city": "Santa Clara",
+                    "state": "CA",
+                    "country": "United States",
+                    "cc": "US"
+                },
+                "canonicalUrl": "https://foursquare.com/v/chromatic-coffee-co/50799a54e4b08aa6be4e0b76",
+                "categories": [
+                    {
+                        "id": "4bf58dd8d48988d1e0931735",
+                        "name": "Coffee Shop",
+                        "pluralName": "Coffee Shops",
+                        "shortName": "Coffee Shop",
+                        "icon": {
+                            "prefix": "https://foursquare.com/img/categories/food/coffeeshop_",
+                            "sizes": [
+                                32,
+                                44,
+                                64,
+                                88,
+                                256
+                            ],
+                            "name": ".png"
+                        },
+                        "primary": true
+                    }
+                ],
+                "verified": false,
+                "restricted": true,
+                "stats": {
+                    "checkinsCount": 865,
+                    "usersCount": 308,
+                    "tipCount": 8
+                },
+                "likes": {
+                    "count": 0,
+                    "groups": []
+                },
+                "specials": {
+                    "count": 0,
+                    "items": []
+                },
+                "hereNow": {
+                    "count": 0,
+                    "groups": []
+                },
+                "referralId": "v-1357553391"
+            },
+            {
+                "id": "4aa5d9cdf964a5208b4920e3",
+                "name": "Starbucks",
+                "contact": {
+                    "phone": "4082965078",
+                    "formattedPhone": "(408) 296-5078",
+                    "twitter": "starbucks"
+                },
+                "location": {
+                    "address": "3605 El Camino Real",
+                    "crossStreet": "at Lawrence Expwy",
+                    "lat": 37.352937,
+                    "lng": -121.99733306820569,
+                    "distance": 3857,
+                    "postalCode": "95051",
+                    "city": "Santa Clara",
+                    "state": "CA",
+                    "country": "United States",
+                    "cc": "US"
+                },
+                "canonicalUrl": "https://foursquare.com/v/starbucks/4aa5d9cdf964a5208b4920e3",
+                "categories": [
+                    {
+                        "id": "4bf58dd8d48988d1e0931735",
+                        "name": "Coffee Shop",
+                        "pluralName": "Coffee Shops",
+                        "shortName": "Coffee Shop",
+                        "icon": {
+                            "prefix": "https://foursquare.com/img/categories/food/coffeeshop_",
+                            "sizes": [
+                                32,
+                                44,
+                                64,
+                                88,
+                                256
+                            ],
+                            "name": ".png"
+                        },
+                        "primary": true
+                    }
+                ],
+                "verified": true,
+                "restricted": true,
+                "stats": {
+                    "checkinsCount": 8644,
+                    "usersCount": 2131,
+                    "tipCount": 46
+                },
+                "likes": {
+                    "count": 0,
+                    "groups": []
+                },
+                "menu": {
+                    "type": "foodAndBeverage",
+                    "url": "https://foursquare.com/v/starbucks/4aa5d9cdf964a5208b4920e3/menu",
+                    "mobileUrl": "https://foursquare.com/v/4aa5d9cdf964a5208b4920e3/device_menu"
+                },
+                "specials": {
+                    "count": 0,
+                    "items": []
+                },
+                "hereNow": {
+                    "count": 0,
+                    "groups": []
+                },
+                "referralId": "v-1357553391"
+            },
+            {
+                "id": "4da08bccc41ca14378964ba3",
+                "name": "Coffee Bean Cafe",
+                "contact": {},
+                "location": {
+                    "lat": 37.31345163085631,
+                    "lng": -122.06892750836457,
+                    "distance": 3907,
+                    "city": "Cupertino",
+                    "state": "CA",
+                    "country": "United States",
+                    "cc": "US"
+                },
+                "canonicalUrl": "https://foursquare.com/v/coffee-bean-cafe/4da08bccc41ca14378964ba3",
+                "categories": [
+                    {
+                        "id": "4bf58dd8d48988d1e0931735",
+                        "name": "Coffee Shop",
+                        "pluralName": "Coffee Shops",
+                        "shortName": "Coffee Shop",
+                        "icon": {
+                            "prefix": "https://foursquare.com/img/categories/food/coffeeshop_",
+                            "sizes": [
+                                32,
+                                44,
+                                64,
+                                88,
+                                256
+                            ],
+                            "name": ".png"
+                        },
+                        "primary": true
+                    }
+                ],
+                "verified": false,
+                "restricted": true,
+                "stats": {
+                    "checkinsCount": 16,
+                    "usersCount": 11,
+                    "tipCount": 0
+                },
+                "likes": {
+                    "count": 0,
+                    "groups": []
+                },
+                "specials": {
+                    "count": 0,
+                    "items": []
+                },
+                "hereNow": {
+                    "count": 0,
+                    "groups": []
+                },
+                "referralId": "v-1357553391"
+            },
+            {
+                "id": "4e4dd3f8bd41b76bef93cbf0",
+                "name": "Starbucks",
+                "contact": {
+                    "phone": "4087338251",
+                    "formattedPhone": "(408) 733-8251"
+                },
+                "location": {
+                    "address": "De Anza Blvd",
+                    "lat": 37.333770565957394,
+                    "lng": -122.03239934644084,
+                    "distance": 470,
+                    "postalCode": "94087",
+                    "city": "Sunnyvale",
+                    "state": "CA",
+                    "country": "United States",
+                    "cc": "US"
+                },
+                "canonicalUrl": "https://foursquare.com/v/starbucks/4e4dd3f8bd41b76bef93cbf0",
+                "categories": [
+                    {
+                        "id": "4bf58dd8d48988d1e0931735",
+                        "name": "Coffee Shop",
+                        "pluralName": "Coffee Shops",
+                        "shortName": "Coffee Shop",
+                        "icon": {
+                            "prefix": "https://foursquare.com/img/categories/food/coffeeshop_",
+                            "sizes": [
+                                32,
+                                44,
+                                64,
+                                88,
+                                256
+                            ],
+                            "name": ".png"
+                        },
+                        "primary": true
+                    }
+                ],
+                "verified": false,
+                "restricted": true,
+                "stats": {
+                    "checkinsCount": 132,
+                    "usersCount": 38,
+                    "tipCount": 0
+                },
+                "likes": {
+                    "count": 0,
+                    "groups": []
+                },
+                "specials": {
+                    "count": 0,
+                    "items": []
+                },
+                "hereNow": {
+                    "count": 0,
+                    "groups": []
+                },
+                "referralId": "v-1357553391"
+            },
+            {
+                "id": "50b4e75de4b03dbff5e3fadf",
+                "name": "Apple De Anza 7 Coffee Bar",
+                "contact": {},
+                "location": {
+                    "address": "Apple De Anza 7 Locked Lobby",
+                    "crossStreet": "De Anza",
+                    "lat": 37.32956004429585,
+                    "lng": -122.0329544087267,
+                    "distance": 266,
+                    "postalCode": "95014",
+                    "city": "Cupertino",
+                    "state": "CA",
+                    "country": "United States",
+                    "cc": "US"
+                },
+                "canonicalUrl": "https://foursquare.com/v/apple-de-anza-7-coffee-bar/50b4e75de4b03dbff5e3fadf",
+                "categories": [
+                    {
+                        "id": "4bf58dd8d48988d1e0931735",
+                        "name": "Coffee Shop",
+                        "pluralName": "Coffee Shops",
+                        "shortName": "Coffee Shop",
+                        "icon": {
+                            "prefix": "https://foursquare.com/img/categories/food/coffeeshop_",
+                            "sizes": [
+                                32,
+                                44,
+                                64,
+                                88,
+                                256
+                            ],
+                            "name": ".png"
+                        },
+                        "primary": true
+                    }
+                ],
+                "verified": false,
+                "restricted": true,
+                "stats": {
+                    "checkinsCount": 16,
+                    "usersCount": 1,
+                    "tipCount": 0
+                },
+                "likes": {
+                    "count": 0,
+                    "groups": []
+                },
+                "specials": {
+                    "count": 0,
+                    "items": []
+                },
+                "hereNow": {
+                    "count": 0,
+                    "groups": []
+                },
+                "referralId": "v-1357553391"
+            },
+            {
+                "id": "4a86e1abf964a520770120e3",
+                "name": "Starbucks",
+                "contact": {
+                    "phone": "4082441421",
+                    "formattedPhone": "(408) 244-1421",
+                    "twitter": "starbucks"
+                },
+                "location": {
+                    "address": "3551 Homestead Rd",
+                    "crossStreet": "at Lawrence Expressway",
+                    "lat": 37.338261158025695,
+                    "lng": -121.99463367462158,
+                    "distance": 3262,
+                    "postalCode": "95051",
+                    "city": "Santa Clara",
+                    "state": "CA",
+                    "country": "United States",
+                    "cc": "US"
+                },
+                "canonicalUrl": "https://foursquare.com/v/starbucks/4a86e1abf964a520770120e3",
+                "categories": [
+                    {
+                        "id": "4bf58dd8d48988d1e0931735",
+                        "name": "Coffee Shop",
+                        "pluralName": "Coffee Shops",
+                        "shortName": "Coffee Shop",
+                        "icon": {
+                            "prefix": "https://foursquare.com/img/categories/food/coffeeshop_",
+                            "sizes": [
+                                32,
+                                44,
+                                64,
+                                88,
+                                256
+                            ],
+                            "name": ".png"
+                        },
+                        "primary": true
+                    }
+                ],
+                "verified": true,
+                "restricted": true,
+                "stats": {
+                    "checkinsCount": 3027,
+                    "usersCount": 712,
+                    "tipCount": 12
+                },
+                "url": "http://www.starbucks.com",
+                "likes": {
+                    "count": 0,
+                    "groups": []
+                },
+                "menu": {
+                    "type": "foodAndBeverage",
+                    "url": "https://foursquare.com/v/starbucks/4a86e1abf964a520770120e3/menu",
+                    "mobileUrl": "https://foursquare.com/v/4a86e1abf964a520770120e3/device_menu"
+                },
+                "specials": {
+                    "count": 0,
+                    "items": []
+                },
+                "hereNow": {
+                    "count": 0,
+                    "groups": []
+                },
+                "referralId": "v-1357553391"
+            },
+            {
+                "id": "4596bae3f964a52072401fe3",
+                "name": "Starbucks",
+                "contact": {
+                    "phone": "4087498158",
+                    "formattedPhone": "(408) 749-8158",
+                    "twitter": "starbucks"
+                },
+                "location": {
+                    "address": "795 E El Camino Real",
+                    "crossStreet": "at Maria Ln",
+                    "lat": 37.35656444200047,
+                    "lng": -122.01721174572265,
+                    "distance": 3166,
+                    "postalCode": "94087",
+                    "city": "Sunnyvale",
+                    "state": "CA",
+                    "country": "United States",
+                    "cc": "US"
+                },
+                "canonicalUrl": "https://foursquare.com/v/starbucks/4596bae3f964a52072401fe3",
+                "categories": [
+                    {
+                        "id": "4bf58dd8d48988d1e0931735",
+                        "name": "Coffee Shop",
+                        "pluralName": "Coffee Shops",
+                        "shortName": "Coffee Shop",
+                        "icon": {
+                            "prefix": "https://foursquare.com/img/categories/food/coffeeshop_",
+                            "sizes": [
+                                32,
+                                44,
+                                64,
+                                88,
+                                256
+                            ],
+                            "name": ".png"
+                        },
+                        "primary": true
+                    }
+                ],
+                "verified": true,
+                "restricted": true,
+                "stats": {
+                    "checkinsCount": 3125,
+                    "usersCount": 681,
+                    "tipCount": 6
+                },
+                "url": "http://starbucks.com",
+                "likes": {
+                    "count": 0,
+                    "groups": []
+                },
+                "menu": {
+                    "type": "foodAndBeverage",
+                    "url": "https://foursquare.com/v/starbucks/4596bae3f964a52072401fe3/menu",
+                    "mobileUrl": "https://foursquare.com/v/4596bae3f964a52072401fe3/device_menu"
+                },
+                "specials": {
+                    "count": 0,
+                    "items": []
+                },
+                "hereNow": {
+                    "count": 0,
+                    "groups": []
+                },
+                "referralId": "v-1357553391"
+            },
+            {
+                "id": "458678edf964a520b43f1fe3",
+                "name": "Coffee & More",
+                "contact": {
+                    "phone": "4082451900",
+                    "formattedPhone": "(408) 245-1900"
+                },
+                "location": {
+                    "address": "100 S Murphy Ave",
+                    "crossStreet": "at W Evelyn Ave",
+                    "lat": 37.377216824648315,
+                    "lng": -122.0297384262085,
+                    "distance": 5256,
+                    "postalCode": "94086",
+                    "city": "Sunnyvale",
+                    "state": "CA",
+                    "country": "United States",
+                    "cc": "US"
+                },
+                "canonicalUrl": "https://foursquare.com/v/coffee--more/458678edf964a520b43f1fe3",
+                "categories": [
+                    {
+                        "id": "4bf58dd8d48988d1e0931735",
+                        "name": "Coffee Shop",
+                        "pluralName": "Coffee Shops",
+                        "shortName": "Coffee Shop",
+                        "icon": {
+                            "prefix": "https://foursquare.com/img/categories/food/coffeeshop_",
+                            "sizes": [
+                                32,
+                                44,
+                                64,
+                                88,
+                                256
+                            ],
+                            "name": ".png"
+                        },
+                        "primary": true
+                    }
+                ],
+                "verified": false,
+                "restricted": true,
+                "stats": {
+                    "checkinsCount": 393,
+                    "usersCount": 141,
+                    "tipCount": 7
+                },
+                "likes": {
+                    "count": 0,
+                    "groups": []
+                },
+                "specials": {
+                    "count": 0,
+                    "items": []
+                },
+                "hereNow": {
+                    "count": 0,
+                    "groups": []
+                },
+                "referralId": "v-1357553391"
+            },
+            {
+                "id": "4ad88764f964a5200e1221e3",
+                "name": "Starbucks",
+                "contact": {
+                    "phone": "4085578117",
+                    "formattedPhone": "(408) 557-8117",
+                    "twitter": "starbucks"
+                },
+                "location": {
+                    "address": "5180A Stevens Creek Blvd",
+                    "crossStreet": "at Lawrence Expy",
+                    "lat": 37.322468,
+                    "lng": -121.994078,
+                    "distance": 3288,
+                    "postalCode": "95129",
+                    "city": "San Jose",
+                    "state": "CA",
+                    "country": "United States",
+                    "cc": "US"
+                },
+                "canonicalUrl": "https://foursquare.com/v/starbucks/4ad88764f964a5200e1221e3",
+                "categories": [
+                    {
+                        "id": "4bf58dd8d48988d1e0931735",
+                        "name": "Coffee Shop",
+                        "pluralName": "Coffee Shops",
+                        "shortName": "Coffee Shop",
+                        "icon": {
+                            "prefix": "https://foursquare.com/img/categories/food/coffeeshop_",
+                            "sizes": [
+                                32,
+                                44,
+                                64,
+                                88,
+                                256
+                            ],
+                            "name": ".png"
+                        },
+                        "primary": true
+                    }
+                ],
+                "verified": true,
+                "restricted": true,
+                "stats": {
+                    "checkinsCount": 3631,
+                    "usersCount": 1010,
+                    "tipCount": 15
+                },
+                "url": "http://www.starbucks.com",
+                "likes": {
+                    "count": 0,
+                    "groups": []
+                },
+                "menu": {
+                    "type": "foodAndBeverage",
+                    "url": "https://foursquare.com/v/starbucks/4ad88764f964a5200e1221e3/menu",
+                    "mobileUrl": "https://foursquare.com/v/4ad88764f964a5200e1221e3/device_menu"
+                },
+                "specials": {
+                    "count": 0,
+                    "items": []
+                },
+                "hereNow": {
+                    "count": 0,
+                    "groups": []
+                },
+                "referralId": "v-1357553391"
+            },
+            {
+                "id": "450736a3f964a5201f391fe3",
+                "name": "Starbucks",
+                "contact": {
+                    "phone": "4087366859",
+                    "formattedPhone": "(408) 736-6859",
+                    "twitter": "starbucks"
+                },
+                "location": {
+                    "address": "332 W El Camino Real",
+                    "crossStreet": "at Mathilda Ave",
+                    "lat": 37.36768871093103,
+                    "lng": -122.03646540641785,
+                    "distance": 4234,
+                    "postalCode": "94087",
+                    "city": "Sunnyvale",
+                    "state": "CA",
+                    "country": "United States",
+                    "cc": "US"
+                },
+                "canonicalUrl": "https://foursquare.com/v/starbucks/450736a3f964a5201f391fe3",
+                "categories": [
+                    {
+                        "id": "4bf58dd8d48988d1e0931735",
+                        "name": "Coffee Shop",
+                        "pluralName": "Coffee Shops",
+                        "shortName": "Coffee Shop",
+                        "icon": {
+                            "prefix": "https://foursquare.com/img/categories/food/coffeeshop_",
+                            "sizes": [
+                                32,
+                                44,
+                                64,
+                                88,
+                                256
+                            ],
+                            "name": ".png"
+                        },
+                        "primary": true
+                    }
+                ],
+                "verified": true,
+                "restricted": true,
+                "stats": {
+                    "checkinsCount": 4694,
+                    "usersCount": 1254,
+                    "tipCount": 21
+                },
+                "url": "http://www.starbucks.com",
+                "likes": {
+                    "count": 0,
+                    "groups": []
+                },
+                "menu": {
+                    "type": "foodAndBeverage",
+                    "url": "https://foursquare.com/v/starbucks/450736a3f964a5201f391fe3/menu",
+                    "mobileUrl": "https://foursquare.com/v/450736a3f964a5201f391fe3/device_menu"
+                },
+                "specials": {
+                    "count": 0,
+                    "items": []
+                },
+                "hereNow": {
+                    "count": 0,
+                    "groups": []
+                },
+                "referralId": "v-1357553391"
+            },
+            {
+                "id": "4a464bd3f964a520a6a81fe3",
+                "name": "Starbucks",
+                "contact": {
+                    "phone": "4087326032",
+                    "formattedPhone": "(408) 732-6032",
+                    "twitter": "starbucks"
+                },
+                "location": {
+                    "address": "1291 S Mary Ave",
+                    "crossStreet": "at W Fremont Ave",
+                    "lat": 37.35264,
+                    "lng": -122.05130098,
+                    "distance": 3147,
+                    "postalCode": "94087",
+                    "city": "Sunnyvale",
+                    "state": "CA",
+                    "country": "United States",
+                    "cc": "US"
+                },
+                "canonicalUrl": "https://foursquare.com/v/starbucks/4a464bd3f964a520a6a81fe3",
+                "categories": [
+                    {
+                        "id": "4bf58dd8d48988d1e0931735",
+                        "name": "Coffee Shop",
+                        "pluralName": "Coffee Shops",
+                        "shortName": "Coffee Shop",
+                        "icon": {
+                            "prefix": "https://foursquare.com/img/categories/food/coffeeshop_",
+                            "sizes": [
+                                32,
+                                44,
+                                64,
+                                88,
+                                256
+                            ],
+                            "name": ".png"
+                        },
+                        "primary": true
+                    }
+                ],
+                "verified": true,
+                "restricted": true,
+                "stats": {
+                    "checkinsCount": 2330,
+                    "usersCount": 637,
+                    "tipCount": 5
+                },
+                "likes": {
+                    "count": 0,
+                    "groups": []
+                },
+                "menu": {
+                    "type": "foodAndBeverage",
+                    "url": "https://foursquare.com/v/starbucks/4a464bd3f964a520a6a81fe3/menu",
+                    "mobileUrl": "https://foursquare.com/v/4a464bd3f964a520a6a81fe3/device_menu"
+                },
+                "specials": {
+                    "count": 0,
+                    "items": []
+                },
+                "hereNow": {
+                    "count": 0,
+                    "groups": []
+                },
+                "referralId": "v-1357553391"
+            },
+            {
+                "id": "46098f7bf964a520e5441fe3",
+                "name": "Peet's Coffee & Tea",
+                "contact": {
+                    "phone": "4082131870",
+                    "formattedPhone": "(408) 213-1870",
+                    "twitter": "peets_tweets"
+                },
+                "location": {
+                    "address": "20807 Stevens Creek Blvd",
+                    "crossStreet": "btw N Stelling Rd & N De Anza Blvd",
+                    "lat": 37.32309513342793,
+                    "lng": -122.03830808401108,
+                    "distance": 1063,
+                    "postalCode": "95014",
+                    "city": "Cupertino",
+                    "state": "CA",
+                    "country": "United States",
+                    "cc": "US"
+                },
+                "canonicalUrl": "https://foursquare.com/v/peets-coffee--tea/46098f7bf964a520e5441fe3",
+                "categories": [
+                    {
+                        "id": "4bf58dd8d48988d1e0931735",
+                        "name": "Coffee Shop",
+                        "pluralName": "Coffee Shops",
+                        "shortName": "Coffee Shop",
+                        "icon": {
+                            "prefix": "https://foursquare.com/img/categories/food/coffeeshop_",
+                            "sizes": [
+                                32,
+                                44,
+                                64,
+                                88,
+                                256
+                            ],
+                            "name": ".png"
+                        },
+                        "primary": true
+                    }
+                ],
+                "verified": false,
+                "restricted": true,
+                "stats": {
+                    "checkinsCount": 2155,
+                    "usersCount": 714,
+                    "tipCount": 5
+                },
+                "url": "http://peets.com",
+                "likes": {
+                    "count": 0,
+                    "groups": []
+                },
+                "specials": {
+                    "count": 0,
+                    "items": []
+                },
+                "hereNow": {
+                    "count": 0,
+                    "groups": []
+                },
+                "referralId": "v-1357553391"
+            },
+            {
+                "id": "4b099a47f964a520311a23e3",
+                "name": "Starbucks",
+                "contact": {
+                    "phone": "4087460151",
+                    "formattedPhone": "(408) 746-0151",
+                    "twitter": "starbucks"
+                },
+                "location": {
+                    "address": "22390 Homestead Rd",
+                    "crossStreet": "at Foothill Expy",
+                    "lat": 37.33715393073878,
+                    "lng": -122.06673572082606,
+                    "distance": 3347,
+                    "postalCode": "95014",
+                    "city": "Los Altos",
+                    "state": "CA",
+                    "country": "United States",
+                    "cc": "US"
+                },
+                "canonicalUrl": "https://foursquare.com/v/starbucks/4b099a47f964a520311a23e3",
+                "categories": [
+                    {
+                        "id": "4bf58dd8d48988d1e0931735",
+                        "name": "Coffee Shop",
+                        "pluralName": "Coffee Shops",
+                        "shortName": "Coffee Shop",
+                        "icon": {
+                            "prefix": "https://foursquare.com/img/categories/food/coffeeshop_",
+                            "sizes": [
+                                32,
+                                44,
+                                64,
+                                88,
+                                256
+                            ],
+                            "name": ".png"
+                        },
+                        "primary": true
+                    }
+                ],
+                "verified": true,
+                "restricted": true,
+                "stats": {
+                    "checkinsCount": 3801,
+                    "usersCount": 593,
+                    "tipCount": 15
+                },
+                "url": "http://www.starbucks.com",
+                "likes": {
+                    "count": 0,
+                    "groups": []
+                },
+                "menu": {
+                    "type": "foodAndBeverage",
+                    "url": "https://foursquare.com/v/starbucks/4b099a47f964a520311a23e3/menu",
+                    "mobileUrl": "https://foursquare.com/v/4b099a47f964a520311a23e3/device_menu"
+                },
+                "specials": {
+                    "count": 0,
+                    "items": []
+                },
+                "hereNow": {
+                    "count": 0,
+                    "groups": []
+                },
+                "referralId": "v-1357553391"
+            },
+            {
+                "id": "4f4d896fe4b0ed369383eb69",
+                "name": "De Anza 6 Coffee Bar",
+                "contact": {},
+                "location": {
+                    "address": "10355 De Anza Blvd",
+                    "lat": 37.331541138201295,
+                    "lng": -122.03338180475986,
+                    "distance": 345,
+                    "postalCode": "95014",
+                    "city": "Cupertino",
+                    "state": "CA",
+                    "country": "United States",
+                    "cc": "US"
+                },
+                "canonicalUrl": "https://foursquare.com/v/de-anza-6-coffee-bar/4f4d896fe4b0ed369383eb69",
+                "categories": [
+                    {
+                        "id": "4bf58dd8d48988d1e0931735",
+                        "name": "Coffee Shop",
+                        "pluralName": "Coffee Shops",
+                        "shortName": "Coffee Shop",
+                        "icon": {
+                            "prefix": "https://foursquare.com/img/categories/food/coffeeshop_",
+                            "sizes": [
+                                32,
+                                44,
+                                64,
+                                88,
+                                256
+                            ],
+                            "name": ".png"
+                        },
+                        "primary": true
+                    }
+                ],
+                "verified": false,
+                "restricted": true,
+                "stats": {
+                    "checkinsCount": 3,
+                    "usersCount": 3,
+                    "tipCount": 0
+                },
+                "likes": {
+                    "count": 0,
+                    "groups": []
+                },
+                "specials": {
+                    "count": 0,
+                    "items": []
+                },
+                "hereNow": {
+                    "count": 0,
+                    "groups": []
+                },
+                "referralId": "v-1357553391"
+            },
+            {
+                "id": "45097a92f964a5203e391fe3",
+                "name": "Starbucks",
+                "contact": {
+                    "phone": "4087469270",
+                    "formattedPhone": "(408) 746-9270",
+                    "twitter": "starbucks"
+                },
+                "location": {
+                    "address": "201 S Mary Ave.",
+                    "crossStreet": "at W Washington Ave.",
+                    "lat": 37.378615,
+                    "lng": -122.046514,
+                    "distance": 5605,
+                    "postalCode": "94086",
+                    "city": "Sunnyvale",
+                    "state": "CA",
+                    "country": "United States",
+                    "cc": "US"
+                },
+                "canonicalUrl": "https://foursquare.com/v/starbucks/45097a92f964a5203e391fe3",
+                "categories": [
+                    {
+                        "id": "4bf58dd8d48988d1e0931735",
+                        "name": "Coffee Shop",
+                        "pluralName": "Coffee Shops",
+                        "shortName": "Coffee Shop",
+                        "icon": {
+                            "prefix": "https://foursquare.com/img/categories/food/coffeeshop_",
+                            "sizes": [
+                                32,
+                                44,
+                                64,
+                                88,
+                                256
+                            ],
+                            "name": ".png"
+                        },
+                        "primary": true
+                    }
+                ],
+                "verified": true,
+                "restricted": true,
+                "stats": {
+                    "checkinsCount": 5140,
+                    "usersCount": 710,
+                    "tipCount": 19
+                },
+                "url": "http://www.starbucks.com",
+                "likes": {
+                    "count": 0,
+                    "groups": []
+                },
+                "menu": {
+                    "type": "foodAndBeverage",
+                    "url": "https://foursquare.com/v/starbucks/45097a92f964a5203e391fe3/menu",
+                    "mobileUrl": "https://foursquare.com/v/45097a92f964a5203e391fe3/device_menu"
+                },
+                "specials": {
+                    "count": 0,
+                    "items": []
+                },
+                "hereNow": {
+                    "count": 0,
+                    "groups": []
+                },
+                "referralId": "v-1357553391"
+            }
+        ]
+    }
+}
